@@ -30,7 +30,7 @@ See the section about deployment for more information.
 
 <code>npm run eject</code>  
 
-Note: this is a one-way operation. Once you eject, you can't go back!  
+**Note: this is a one-way operation. Once you eject, you can't go back!**  
 
 If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.  
 
@@ -59,4 +59,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment  
 
 <code>npm run build fails to minify</code>   
+
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify  
