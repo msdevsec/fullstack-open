@@ -2,11 +2,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
 
 ## Available Scripts  
-In the project directory, you can run:
-  
-<code>
-npm start  
-</code>  
+In the project directory, you can run: 
+
+<code>npm start</code>  
 
   
 Runs the app in the development mode.  
